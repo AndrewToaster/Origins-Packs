@@ -6,9 +6,9 @@
         "origins:more_kinetic_damage",
         "origins:carnivore",
         "origins:sprint_jump",
-        "extraextraorigins:featherlight",   
+        "extraextraorigins:feather_light",   
         "origins:elytra",
-        "extraextraorigins:extraboost"
+        "extraextraorigins:extra_boost"
 
     ],
     "icon": "minecraft:firework_rocket",

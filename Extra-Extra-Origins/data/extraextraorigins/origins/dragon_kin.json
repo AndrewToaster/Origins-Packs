@@ -8,7 +8,10 @@
  		"origins:natural_armor",
  		"extraextraorigins:beefy",
  		"extraextraorigins:water_weakness",
- 		"extraextraorigins:ablaze"
+ 		"extraextraorigins:ablaze",
+		"extraextraorigins:fire_ball",
+		"origins:fire_immunity"
+
  	],
  	"icon": "minecraft:blaze_rod",
  	"order": 10,

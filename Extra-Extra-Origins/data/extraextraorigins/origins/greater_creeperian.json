@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "extraextraorigins:greater_creeperian_skin",
+        "extraextraorigins:greater_creeperian_blast_resistance",
+        "extraextraorigins:greater_creeperian_explosion"
+    ],
+    "icon": "minecraft:tnt",
+    "order": 10,
+    "impact": 3,
+    "name": "Greater Creeperian",
+    "description": "Extremely volatile yet very kind. Greater creeperians are often regarded as one of the most unpredictable sub-race of creeperians."
+}

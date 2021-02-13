@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "origins": [
+		"extraextraorigins:dragon_kin",
+		"extraextraorigins:wyvern_kin",
+		"extraextraorigins:sculk",
+		"extraextraorigins:creeperian",
+		"extraextraorigins:greater_creeperian",
+        "extraorigins:piglin",
+        "origins:blazeborn",
+        "origins:human",
+        "origins:phantom",
+        "extraextraorigins:golem"
+    ],
+    "name": "Species" 
+}

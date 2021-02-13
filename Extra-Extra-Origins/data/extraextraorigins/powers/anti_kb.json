@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.knockback_resistance",
+		"operation": "multiply_total",
+		"value": 0.7
+	},
+
+	"name": "Anti Kb",
+	"description": "Your are basically imune to knockback some might think youre hacking"
+}

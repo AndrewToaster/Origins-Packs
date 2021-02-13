@@ -1,0 +1,28 @@
+{
+	"type": "origins:attribute",
+	"modifiers": [
+		{
+			"attribute": "minecraft:generic.max_health",
+			"operation": "addition",
+			"value": 10
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "addition",
+			"value": 8
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "multiply_total",
+			"value": 0.3
+		},
+		{
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "multiply_total",
+			"value" : -0.4
+		}
+	],
+
+	"name": "Rock Solid",
+	"description": "You are as hard as rock but also as slow as one. You have the feeling to say rock solid."
+}

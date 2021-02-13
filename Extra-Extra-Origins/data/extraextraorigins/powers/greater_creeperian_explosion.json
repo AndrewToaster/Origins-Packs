@@ -1,0 +1,16 @@
+{
+    "name" : "Greater Volatile Release",
+    "description": "Greater creeperians are able to focus their inner explosive tissues to release a huge burst of energy similiar to a multiple tnt explosions",
+    "type": "origins:fire_projectile",
+    "count": 2,
+    "entity_type": "minecraft:creeper",
+    "cooldown": 200,
+    "speed": 0,
+    "divergence": 10,
+    "tag": "{Fuse:0, Powered:1b}",
+
+    "hud_render" : {
+        "should_render": true,
+        "bar_index" : 4
+    }
+}

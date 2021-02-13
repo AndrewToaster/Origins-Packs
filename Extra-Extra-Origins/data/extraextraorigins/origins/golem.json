@@ -1,11 +1,16 @@
 {
     "powers": [
-        ""
+        "extraextraorigins:rock_solid",
+        "extraextraorigins:iron_arms",
+        "origins:vegetarian",
+        "origins:fire_immunity",
+        "origins:fall_immunity",
+        "extraextraorigins:anti_kb"
     ],
-    "icon": "minecraft:bone",
+    "icon": "minecraft:iron_block",
     "order": 10,
     "impact": 3,
-    "name": "Sculker",
-    "description": "You are the embodiment of the Sculk you have advanced hearing and extreme mobility. But you are extremly vulnereable to fire!"
+    "name": "Golem",
+    "description": "You are a nature golem extremly tough and strong"
 
 }

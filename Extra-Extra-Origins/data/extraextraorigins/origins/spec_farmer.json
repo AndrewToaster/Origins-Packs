@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "extraextraorigins:combat_expertise"
+    ],
+    "icon": "minecraft:bone",
+    "order": 1,
+    "impact": 1,
+    "name": "Farmer",
+    "description": "You very familiar with the ways of the hoes and can grow better crops"
+}

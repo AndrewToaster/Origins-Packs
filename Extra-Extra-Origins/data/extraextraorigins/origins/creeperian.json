@@ -1,7 +1,8 @@
 {
     "powers": [
         "extraextraorigins:creeperian_skin",
-        "extraextraorigins:creeperian_blast_resistance"
+        "extraextraorigins:creeperian_blast_resistance",
+        "extraextraorigins:creeperian_explosion"
     ],
     "icon": "minecraft:gunpowder",
     "order": 10,
