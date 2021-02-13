@@ -1,0 +1,22 @@
+{
+    "powers": [
+        "origins:aerial_combatant",
+        "origins:cat_vision",
+        "origins:claustrophobia",
+        "origins:more_kinetic_damage",
+        "origins:carnivore",
+        "origins:sprint_jump",
+        "extraextraorigins:featherlight",   
+        "origins:elytra",
+        "extraextraorigins:extraboost"
+
+    ],
+    "icon": "minecraft:firework_rocket",
+    "order": 10,
+    "impact": 3,
+    "name": "Wyvern kin",
+    "description": "You have been born as a Wyvern kin you specialise in flying down at your enemies and murdering them"
+
+
+
+}

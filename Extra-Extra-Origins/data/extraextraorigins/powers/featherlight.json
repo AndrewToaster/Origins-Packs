@@ -1,0 +1,23 @@
+{
+	"type": "origins:attribute",
+	"modifiers": [
+		{
+			"attribute": "minecraft:generic.max_health",
+			"operation": "addition",
+			"value": -6
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "multiply_total",
+			"value": -0.2
+		},
+		{
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "multiply_total",
+			"value" : 0.2
+		}
+	],
+
+	"name": "Light as a Feather",
+	"description": "Your lighter than usual making you feel faster but reducing your health"
+}

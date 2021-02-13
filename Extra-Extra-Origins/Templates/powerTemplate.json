@@ -1,0 +1,5 @@
+{
+    "name" : "powerTemplate",
+    "description": "Template",
+    "type": "origins:simple"
+}

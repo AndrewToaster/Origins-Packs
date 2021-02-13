@@ -1,0 +1,10 @@
+{
+    "powers": [
+        ""
+    ],
+    "icon": "minecraft:dirt",
+    "order": 0,
+    "impact": 0,
+    "name": "OriginTemplate",
+    "description": "A template for an origin"
+}

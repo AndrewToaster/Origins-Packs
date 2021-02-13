@@ -1,0 +1,10 @@
+{
+    "name" : "Creeperian skin",
+    "description": "Creeperians are known for their slight dis-coloration of their skin. Usually their skin is darker and greener.",
+    "type": "origins:origins:model_color",
+
+    "red": 0.8,
+    "blue": 0.8,
+    "green": 1.0,
+    "alpha": 1.0
+}

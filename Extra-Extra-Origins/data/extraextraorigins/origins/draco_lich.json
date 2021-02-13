@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "origins:carnivore",
+        "extraextraorigins:featherlight",
+        "origins:burn_in_daylight",
+        "extraextraorigins:combat_expertise",
+        "extraextraorigins:fireball"
+    ],
+    "icon": "minecraft:bone",
+    "order": 10,
+    "impact": 3,
+    "name": "Dracolich",
+    "description": "You are a dragon kin corrupted by magic into a dracolich"
+
+}

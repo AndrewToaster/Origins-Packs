@@ -1,0 +1,18 @@
+ {
+ 	"powers": [
+ 		"origins:burning_wrath",
+ 		"origins:carnivore",
+ 		"origins:hunger_over_time",
+ 		"origins:more_exhaustion",
+ 		"origins:strong_arms",
+ 		"origins:natural_armor",
+ 		"extraextraorigins:beefy",
+ 		"extraextraorigins:water_weakness",
+ 		"extraextraorigins:ablaze"
+ 	],
+ 	"icon": "minecraft:blaze_rod",
+ 	"order": 10,
+ 	"impact": 3,
+ 	"name": "Dragon Kin",
+ 	"description": "You were born as a member of the dragon kin, Fearsome dragon warriors excelling at combat and looking hella badass. You are specialised in taking damage and dealing damage"
+ }

@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "origins": [
+		"extraextraorigins:dragon_kin",
+		"extraextraorigins:wyvern_kin",
+		"extraextraorigins:sculk",
+		"extraextraorigins:draco_lich",
+		"extraextraorigins:creeperian",
+        "extraorigins:piglin",
+        "origins:blazeborn",
+        "origins:human",
+        "origins:phantom"
+    ],
+    "name": "Extra Origins" 
+}

@@ -1,0 +1,11 @@
+{
+    "type":"origins:damage_over_time",
+    "condition": {
+        "type": "origins:fire"
+    },
+    "damage": 1,
+    "interval": 6,
+    "damage_source": "",
+    "name" : "Fire Vulnereability",
+    "description" : "Fire burns you REALLY badly"
+}

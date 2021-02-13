@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "extraextraorigins:combat_expertise"
+        
+    ],
+    "icon": "minecraft:bone",
+    "order": 10,
+    "impact": 3,
+    "name": "Pigman",
+    "description": "You are a pig and a man? Hmm what unforseen powers may you have"
+
+}

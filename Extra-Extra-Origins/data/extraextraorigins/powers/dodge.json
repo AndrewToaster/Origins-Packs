@@ -1,0 +1,15 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:add_velocity",
+    "z": -0.5,
+    "space": "local"
+  },
+  "cooldown":60,
+  "hud_render": {
+      "should_render": true,
+      "bar_index": 5
+  }, 
+  "name" : "Dodge",
+  "description": "Your light weight allows you to jump out of harms way"
+}
