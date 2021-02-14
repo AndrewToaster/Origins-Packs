@@ -1,8 +1,9 @@
 {
     "powers": [
-        "extraextraorigins:combat_expertise"
+        "extraspecs:farmer_power"
     ],
-    "icon": "minecraft:bone",
+    
+    "icon": "minecraft:iron_hoe",
     "order": 1,
     "impact": 1,
     "name": "Farmer",
