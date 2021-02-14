@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"origins": [
-        "extraextraorigins:spec_joe"
+        "extraspecs:spec_joe"
     ],
 
     "name": "Specialization"
