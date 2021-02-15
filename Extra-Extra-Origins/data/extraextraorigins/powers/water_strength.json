@@ -1,11 +1,11 @@
 {
     "type": "origins:stacking_status_effect",
     "min_stacks": 0,
-    "max_stacks": 15,
+    "max_stacks": 3,
     "duration_per_stack": 40,
     "effects": [
         {
-            "effect": "minecraft:weakness",
+            "effect": "minecraft:strength",
             "duration": 200,
             "amplifier": 1,
             "is_ambient": true,
@@ -13,7 +13,7 @@
             "show_icon": true
         }, 
         {
-            "effect": "minecraft:mining_fatigue",
+            "effect": "minecraft:haste",
             "duration": 200,
             "amplifier": 1,
             "is_ambient": true,
@@ -23,13 +23,10 @@
     ],
 
     "condition": {
-        "type": "origins:fluid_height",
-        "comparison": ">",
-        "compare_to": 0,
-        "fluid": "minecraft:water",
-        "inverted": false
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
     },
     
-    "name": "Heavy Water",
-    "description": "You dont like being wet. Water makes you feel sluggish giving you Weakness and Mining fatigue"
+    "name": "Water Strength",
+    "description": "While under water your muscles harden becoming stronger and faster"
 }

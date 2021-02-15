@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "extraextraorigins:no_stomach",
+        "extraextraorigins:skeleton_arrow_damage",
+        "extraextraorigins:wither_beefy",
+        "extraextraorigins:wither_light",
+        "extraextraorigins:wither_skull_shot_explosive",
+        "extraextraorigins:wither_skull_shot"
+    ],
+    "icon": "minecraft:wither_skeleton_skull",
+    "order": 2,
+    "impact": 3,
+    "name": "Wither",
+    "description": "You are a Wither you can go conquer with your new withering abilities"
+}
+

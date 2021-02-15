@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.knockback_resistance",
+		"operation": "multiply_total",
+		"value": 0.7
+	},
+
+	"name": "Knockback Resistance",
+	"description": "Due to the nature of your body, you are extremely heavy and hard to knock back"
+}

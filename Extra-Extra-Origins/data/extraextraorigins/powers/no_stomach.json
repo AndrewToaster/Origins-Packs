@@ -1,0 +1,10 @@
+{
+    "name" : "No Metabolism",
+    "description": "You posses no stomach, therefore you are unable to go famished",
+    "type": "origins:modify_exhaustion",
+
+    "modifier": {
+        "operation":"multiply_total",
+        "value": -1
+    }
+}

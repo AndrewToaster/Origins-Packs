@@ -1,7 +1,16 @@
 {
 	"replace": false,
 	"origins": [
-        "extraspecs:spec_joe"
+        {
+            "condition": {
+              "type": "origins:origin",
+              "origin": "origins:human"
+            },
+            "origins": [
+                "extraspecs:spec_joe",
+                "extraspecs:spec_rogue"
+            ]
+          }
     ],
 
     "name": "Specialization"

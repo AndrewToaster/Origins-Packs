@@ -4,13 +4,14 @@
         "extraextraorigins:feather_light",
         "origins:no_shield",
         "origins:no_cobweb_slowdown",
-        "extraextraorigins:combat_expertise",
-        "extraextraorigins:dodge"
+        "extraextraorigins:sculk_dodge",
+        "extraextraorigins:sculk_dodge2",
+        "extraextraorigins:sculk_size",
+        "extraextraorigins:sculk_skin"
     ],
     "icon": "minecraft:chorus_plant",
     "order": 10,
-    "impact": 3,
+    "impact": 2,
     "name": "Sculker",
     "description": "You are the embodiment of the Sculk you have advanced hearing and extreme mobility. But you are extremly vulnereable to fire!"
-
 }

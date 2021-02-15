@@ -1,0 +1,21 @@
+{
+  "type": "origins:fire_projectile",
+  "entity_type" : "minecraft:arrow",
+  "count" : 6,
+  "speed" : 2,
+  "divergence" : 5,
+  "cooldown":2,
+  "hud_render": {
+      "should_render": true,
+      "bar_index": 5
+  }, 
+  
+  "condition": {
+    "type": "origins:sneaking",
+    "inverted": true
+  },
+
+  "name" : "Flame Breath",
+  "description": "With the magic you have within you you are able to breathe molten death at your opponents.",
+  "tag": "{Fire:900s, Tags:[\"FireDragon_Breath\"], SoundEvent:\"minecraft:block.air\", PierceLevel: 64, pickup:0, damage:0, Silent:1b, Pickup:0}"
+}

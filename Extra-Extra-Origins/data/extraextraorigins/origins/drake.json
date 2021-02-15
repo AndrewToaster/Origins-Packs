@@ -1,0 +1,14 @@
+ {
+ 	"powers": [
+ 		"origins:burning_wrath",
+ 		"origins:carnivore",
+ 		"origins:hunger_over_time",
+ 		"extraextraorigins:beefy"
+
+ 	],
+ 	"icon": "minecraft:blaze_powder",
+ 	"order": 10,
+ 	"impact": 2,
+ 	"name": "Drakeling",
+ 	"description": "From ashes and fire you will rise your might be weak for now but you will show them whats to come."
+ }

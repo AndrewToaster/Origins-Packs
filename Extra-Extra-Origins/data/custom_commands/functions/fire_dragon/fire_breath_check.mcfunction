@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:arrow,tag=FireDragon_Breath] at @s run particle minecraft:flame ~ ~ ~ 0 0 0 0.05 2 force @a[distance=..125]
+execute as @e[type=minecraft:arrow,nbt={inGround:1b},tag=FireDragon_Breath] at @s run function custom_commands:fire_dragon/fire_breath_trigger

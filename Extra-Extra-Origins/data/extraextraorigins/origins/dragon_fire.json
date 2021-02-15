@@ -1,0 +1,19 @@
+ {
+ 	"powers": [
+ 		"origins:burning_wrath",
+ 		"origins:carnivore",
+ 		"origins:hunger_over_time",
+ 		"origins:more_exhaustion",
+		"origins:fire_immunity",
+ 		"extraextraorigins:fire_dragon_beefy",
+ 		"extraextraorigins:water_weakness",
+		"extraextraorigins:fire_dragon_fireball",
+ 		"extraextraorigins:ablaze",
+		"extraextraorigins:fire_dragon_breath"
+ 	],
+ 	"icon": "minecraft:blaze_rod",
+ 	"order": 10,
+ 	"impact": 3,
+ 	"name": "Fire Dragon",
+ 	"description": "You found a lava lair and decided to evolve into a Fire Dragon. You are empowered by the will of Ragnaros, the Fire God Elemental. NOW GO SET THE WORLD ON FIRE"
+ }

@@ -1,16 +1,19 @@
 {
     "replace": false,
     "origins": [
-		"extraextraorigins:dragon_kin",
-		"extraextraorigins:wyvern_kin",
+		"extraextraorigins:dragon_fire",
+		"extraextraorigins:wyvern",
 		"extraextraorigins:sculk",
 		"extraextraorigins:creeperian",
 		"extraextraorigins:greater_creeperian",
         "extraorigins:piglin",
-        "origins:blazeborn",
         "origins:human",
-        "origins:phantom",
-        "extraextraorigins:golem"
+        "extraextraorigins:golem",
+        "extraextraorigins:myridan",
+        "extraextraorigins:ascended_myridan",
+        "extraextraorigins:drake",
+        "extraextraorigins:wither",
+        "extraextraorigins:warden"
     ],
     "name": "Species" 
 }

@@ -1,0 +1,18 @@
+{
+	"type": "origins:attribute",
+	"modifiers": [
+		{
+			"attribute": "minecraft:generic.attack_speed",
+			"operation": "multiply_total",
+			"value": -0.4
+		},
+		{
+			"attribute": "minecraft:generic.attack_damage",
+			"operation": "multiply_total",
+			"value" : 0.7
+		}
+	],
+
+	"name": "Warden Arms",
+	"description": "Your arms are made of hard material as strong as iron almost but they're extremely heavy"
+}

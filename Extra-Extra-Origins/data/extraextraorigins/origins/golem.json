@@ -1,16 +1,16 @@
 {
     "powers": [
-        "extraextraorigins:rock_solid",
-        "extraextraorigins:iron_arms",
-        "origins:vegetarian",
+        "extraextraorigins:golem_hard_skin",
+        "extraextraorigins:golem_iron_arms",
+        "extraextraorigins:golem_size",
+        "extraextraorigins:golem_knockback_resistance",
+        "extraextraorigins:no_stomach",
         "origins:fire_immunity",
-        "origins:fall_immunity",
-        "extraextraorigins:anti_kb"
+        "origins:fall_immunity"
     ],
     "icon": "minecraft:iron_block",
     "order": 10,
     "impact": 3,
     "name": "Golem",
-    "description": "You are a nature golem extremly tough and strong"
-
+    "description": "Golems are known for their strong bodies and hard-hitting punches"
 }

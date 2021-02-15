@@ -3,11 +3,6 @@
     "description": "Greater creeperians have evolved to absorb physical energy to greater resist their explosions",
     "type": "origins:attribute",
 
-    "damage_condition": {
-        "type": "origins:name",
-        "name": "explosion"
-    },
-
     "modifier": {
         "operation":"multiply_total",
         "value": -0.98

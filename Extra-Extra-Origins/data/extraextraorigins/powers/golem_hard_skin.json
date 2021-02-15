@@ -1,0 +1,28 @@
+{
+	"type": "origins:attribute",
+	"modifiers": [
+		{
+			"attribute": "minecraft:generic.max_health",
+			"operation": "addition",
+			"value": 6
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "addition",
+			"value": 4
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "multiply_total",
+			"value": 0.15
+		},
+		{
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "multiply_total",
+			"value" : -0.4
+		}
+	],
+
+	"name": "Hard Iron",
+	"description": "Your body is made mostly from iron, giving you a durable frame for combat"
+}

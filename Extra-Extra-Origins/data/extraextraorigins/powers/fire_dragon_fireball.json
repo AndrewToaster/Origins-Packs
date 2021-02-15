@@ -1,0 +1,22 @@
+{
+    "name": "Fire Ball",
+    "description": "Placeholder",
+    "type": "origins:fire_projectile",
+
+    "entity_type" : "minecraft:fireball",
+    "count" : 1,
+    "speed" : 3,
+    "divergence" : 0,
+    "cooldown":400,
+
+    "hud_render": {
+        "should_render": true,
+        "bar_index": 4
+    },
+
+    "condition": {
+      "type": "origins:sneaking"
+    },
+
+    "tag": "{ExplosionPower:10, power:[0d,-0.05d,0d], Tags:[\"FireDragon_Fireball\"]}"
+  }

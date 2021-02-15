@@ -13,23 +13,22 @@
             "show_icon": true
         }, 
         {
-            "effect": "minecraft:mining_fatigue",
+            "effect": "minecraft:slowness",
             "duration": 200,
-            "amplifier": 1,
+            "amplifier": 2,
             "is_ambient": true,
             "show_particles": false,
             "show_icon": true
         }
     ],
-
     "condition": {
         "type": "origins:fluid_height",
         "comparison": ">",
         "compare_to": 0,
         "fluid": "minecraft:water",
-        "inverted": false
+        "inverted": true
     },
     
-    "name": "Heavy Water",
-    "description": "You dont like being wet. Water makes you feel sluggish giving you Weakness and Mining fatigue"
+    "name": "Aquatic creature",
+    "description": "You are a aquatic creature you really dont like being out of water"
 }

@@ -1,0 +1,17 @@
+{
+  "type": "origins:active_self",
+  "hidden": true,
+  "entity_action": {
+    "type": "origins:add_velocity",
+    "x": 0.6,
+    "space": "local"
+  },
+  "condition": {
+    "type": "origins:sneaking"
+  },
+  "cooldown":25,
+  "hud_render": {
+      "should_render": true,
+      "bar_index": 5
+  }
+}
