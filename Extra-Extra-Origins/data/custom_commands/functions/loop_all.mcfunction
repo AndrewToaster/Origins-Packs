@@ -1,3 +1,0 @@
-function custom_commands:fire_dragon/fire_breath_check
-function custom_commands:fire_dragon/fire_ball_particles
-function custom_commands:rogue_human/smoke_bomb_check

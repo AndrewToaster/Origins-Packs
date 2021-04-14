@@ -1,2 +1,0 @@
-execute as @e[type=minecraft:fireball,tag=FireDragon_Fireball] at @s run particle minecraft:flame ~ ~ ~ 0 0 0 0.05 2 force @a[distance=..125]
-execute as @e[type=minecraft:fireball,tag=FireDragon_Fireball] at @s run particle minecraft:campfire_cosy_smoke ~ ~ ~ 0 0 0 0.005 10 force @a[distance=..125]

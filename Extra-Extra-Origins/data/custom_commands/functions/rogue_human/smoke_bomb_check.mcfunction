@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:arrow,nbt={inGround:1b},tag=Rogue_SmokeBomb] at @s run function custom_commands:rogue_human/smoke_bomb_trigger
